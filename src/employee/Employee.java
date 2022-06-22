@@ -9,7 +9,7 @@ package employee;
  *
  * @author Vassu
  */
-import java.util.*;
+import java.util.Scanner;
 public class Employee {
 
     private String First_name;
